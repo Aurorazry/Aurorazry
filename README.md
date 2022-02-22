@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aurora
-- 👀 I’m interested in swimming
 - 🌱 I’m currently learning coding
-- 📫 How to reach me aurorazry@163.com
+- 📫 How to reach me: aurorazry@163.com
 
 <!---
 Aurorazry/Aurorazry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
